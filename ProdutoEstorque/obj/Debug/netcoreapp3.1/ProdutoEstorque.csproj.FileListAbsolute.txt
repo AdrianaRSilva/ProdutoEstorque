@@ -1,0 +1,13 @@
+E:\cursos TI\C#completo\exercicio resolvido\ProdutoEstorque\ProdutoEstorque\bin\Debug\netcoreapp3.1\ProdutoEstorque.exe
+E:\cursos TI\C#completo\exercicio resolvido\ProdutoEstorque\ProdutoEstorque\bin\Debug\netcoreapp3.1\ProdutoEstorque.deps.json
+E:\cursos TI\C#completo\exercicio resolvido\ProdutoEstorque\ProdutoEstorque\bin\Debug\netcoreapp3.1\ProdutoEstorque.runtimeconfig.json
+E:\cursos TI\C#completo\exercicio resolvido\ProdutoEstorque\ProdutoEstorque\bin\Debug\netcoreapp3.1\ProdutoEstorque.runtimeconfig.dev.json
+E:\cursos TI\C#completo\exercicio resolvido\ProdutoEstorque\ProdutoEstorque\bin\Debug\netcoreapp3.1\ProdutoEstorque.dll
+E:\cursos TI\C#completo\exercicio resolvido\ProdutoEstorque\ProdutoEstorque\bin\Debug\netcoreapp3.1\ProdutoEstorque.pdb
+E:\cursos TI\C#completo\exercicio resolvido\ProdutoEstorque\ProdutoEstorque\obj\Debug\netcoreapp3.1\ProdutoEstorque.csprojAssemblyReference.cache
+E:\cursos TI\C#completo\exercicio resolvido\ProdutoEstorque\ProdutoEstorque\obj\Debug\netcoreapp3.1\ProdutoEstorque.AssemblyInfoInputs.cache
+E:\cursos TI\C#completo\exercicio resolvido\ProdutoEstorque\ProdutoEstorque\obj\Debug\netcoreapp3.1\ProdutoEstorque.AssemblyInfo.cs
+E:\cursos TI\C#completo\exercicio resolvido\ProdutoEstorque\ProdutoEstorque\obj\Debug\netcoreapp3.1\ProdutoEstorque.csproj.CoreCompileInputs.cache
+E:\cursos TI\C#completo\exercicio resolvido\ProdutoEstorque\ProdutoEstorque\obj\Debug\netcoreapp3.1\ProdutoEstorque.dll
+E:\cursos TI\C#completo\exercicio resolvido\ProdutoEstorque\ProdutoEstorque\obj\Debug\netcoreapp3.1\ProdutoEstorque.pdb
+E:\cursos TI\C#completo\exercicio resolvido\ProdutoEstorque\ProdutoEstorque\obj\Debug\netcoreapp3.1\ProdutoEstorque.genruntimeconfig.cache
